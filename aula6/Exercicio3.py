@@ -17,7 +17,6 @@ for i in range (0,2):
         nota += int(input(f'Digite {i + 1} nota: '))
     media.append(nota/4)
 
-for i in range (0,2):
     if media[i] >= 7:
         resultado.append('Aprovado')
     else:
