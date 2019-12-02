@@ -1,0 +1,6 @@
+Skol;4.2;serra
+Brahma;3.8;Pilsen
+Skol;2.3;Malte
+Skol;3.5;Puro malte
+skol;4.5;malte[
+Braham;2.5;Malte
