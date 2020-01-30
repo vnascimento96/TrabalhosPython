@@ -1,7 +1,0 @@
-print('#'*34 , '\n')
-print('Compra de bebidas: ')
-print('1 - Listar bebidas alcoolicas')
-print('2 - Listar bebidas não alcoolicas')
-print('3 - Visualizar pedido')
-print('4 - Sair' , '\n')
-print('#'*34)
